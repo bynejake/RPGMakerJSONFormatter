@@ -14,3 +14,7 @@ Format `RPGMaker` engine `JSON` file in `data` dir, support MV & MZ.
 #### Usage
 
 place RPGMakerJSONFormatter.py same level as the `data` dir and run it.
+
+#### Supported
+
+python3
