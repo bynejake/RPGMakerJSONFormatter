@@ -24,4 +24,5 @@ def json_format_file(path: str):
         pass
 
 
-json_format("data")
+if os.path.exists("data"):
+    json_format("data")
